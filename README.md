@@ -29,7 +29,7 @@ Como este é um projeto front-end estático, você pode executá-lo facilmente d
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/ChaMagalhaes/Sorveteria_web.git](https://github.com/ChaMagalhaes/Sorveteria_web.git)
+    git clone https://github.com/ChaMagalhaes/Sorveteria_web.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
